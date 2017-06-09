@@ -1,3 +1,5 @@
 g++ ./q1/main.cpp -Wall -ansi -pedantic -std=c++11 -o ./q1/q1 -g
 g++ ./q2/main.cpp -Wall -ansi -pedantic -std=c++11 -o ./q2/q2 -g
 g++ ./q3/main.cpp -Wall -ansi -pedantic -std=c++11 -o ./q3/q3 -g
+g++ ./q4/main.cpp -Wall -ansi -pedantic -std=c++11 -o ./q4/q4 -g
+g++ ./q5/main.cpp -Wall -ansi -pedantic -std=c++11 -o ./q5/q5 -g
